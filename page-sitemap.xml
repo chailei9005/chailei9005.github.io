@@ -14,14 +14,14 @@
     </url>
     
     <url>
-        <loc>http://www.ruozedata.com/about/</loc>
+        <loc>http://www.ruozedata.com/archive/</loc>
         <lastmod>2020-02-25T00:57:23.695Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.ruozedata.com/archive/</loc>
+        <loc>http://www.ruozedata.com/about/</loc>
         <lastmod>2020-02-25T00:57:23.695Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
